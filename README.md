@@ -1,7 +1,7 @@
 # PROG2004 Assignment 2 – Theme Park Ride Management System (PRMS)
 
 **Student**: Jiahanzhou  
-**Student ID**: [你的学号]  
+**Student ID**: 24833183 
 **Submitted**: 1 December 2025
 
 ## Project Overview
